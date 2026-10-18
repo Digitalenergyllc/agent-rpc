@@ -21,7 +21,7 @@ Paid request with the pay CLI (https://solana.com/docs/payments/pay-sh):
 - Batches of 16 or more calls, request bodies over 30 KB
 - WebSocket subscriptions (HTTP JSON-RPC only)
 
-Transaction history covers about the last 15 hours.
+Transaction history covers recent blocks only; there is no archive.
 
 ## Operator
 Digital Energy, a Solana validator operator, serving from its own hardware.
